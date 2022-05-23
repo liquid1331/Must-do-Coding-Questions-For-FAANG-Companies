@@ -4,6 +4,7 @@
 ## Arrays
 
 ### Easy
+
 1. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ### Medium 
@@ -18,4 +19,16 @@
 
 1. [Rain Water Trapping](https://leetcode.com/problems/trapping-rain-water/). LeetCode 42
 2. [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+
+
+## Mathematics
+
+### Easy
+
+### Medium
+
+1. [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
+
+### Hard
+1. [2183. Count Array Pairs Divisible by K]([url](https://leetcode.com/problems/count-array-pairs-divisible-by-k/))
 
