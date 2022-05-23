@@ -30,5 +30,5 @@
 1. [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
 
 ### Hard
-1. [2183. Count Array Pairs Divisible by K]([url](https://leetcode.com/problems/count-array-pairs-divisible-by-k/))
+1. [2183. Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
 
