@@ -38,3 +38,4 @@
 ### Easy
 ### Medium
 1. [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+2. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
