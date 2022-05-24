@@ -33,3 +33,8 @@
 ### Hard
 1. [2183. Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
 
+
+## Stack
+### Easy
+### Medium
+1. [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
