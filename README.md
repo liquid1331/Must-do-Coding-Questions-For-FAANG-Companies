@@ -21,7 +21,7 @@
 2. [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 
-## Mathematics
+## <u>Mathematics </u>
 
 ### Easy
 
@@ -35,6 +35,7 @@
 
 
 ## Stack
+
 ### Easy
 ### Medium
 
@@ -43,3 +44,4 @@
 ### Hard
 
 1. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+2. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/132-pattern/)
