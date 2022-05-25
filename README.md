@@ -37,6 +37,10 @@
 ## Stack
 
 ### Easy
+
+1. [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+2. 
+
 ### Medium
 
 1. [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
@@ -45,3 +49,5 @@
 
 1. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 2. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/132-pattern/)
+3. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+4. [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
