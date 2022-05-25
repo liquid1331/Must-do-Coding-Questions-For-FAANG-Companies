@@ -51,3 +51,13 @@
 2. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/132-pattern/)
 3. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 4. [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+## Dynamic Programming
+
+### Easy
+
+### Medium
+
+### Hard
+
+1. [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) [Solution](https://leetcode.com/problems/russian-doll-envelopes/discuss/2071626/Python-LIS-based-approach)
