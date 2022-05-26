@@ -61,3 +61,4 @@
 ### Hard
 
 1. [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)         [** Solution **](https://leetcode.com/problems/russian-doll-envelopes/discuss/2071626/Python-LIS-based-approach)
+2. [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)
