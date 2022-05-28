@@ -6,6 +6,7 @@
 ### Easy
 
 1. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+2. [268. Missing Number](https://leetcode.com/problems/missing-number/).        [Solution](https://leetcode.com/problems/missing-number/discuss/2081201/C%2B%2B-or-Short-w-3-Approaches-O(1)-Space)
 
 ### Medium 
 
@@ -24,6 +25,7 @@
 ## Mathematics 
 
 ### Easy
+1. [268. Missing Number](https://leetcode.com/problems/missing-number/)     [Solution](https://leetcode.com/problems/missing-number/discuss/2081201/C%2B%2B-or-Short-w-3-Approaches-O(1)-Space)
 
 ### Medium
 
