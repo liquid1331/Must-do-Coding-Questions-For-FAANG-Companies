@@ -74,4 +74,4 @@
 2. Find Subarray with Given Sum.
 3. Longest Subarray with Given Sum.
 4. Count of Subarrays with sum==K.
-5. 
+5. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
