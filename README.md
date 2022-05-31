@@ -80,3 +80,6 @@
 
 ### Medium
 1. [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+
+## Binary Tree
+1. [Binary Tree to DLL ](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
