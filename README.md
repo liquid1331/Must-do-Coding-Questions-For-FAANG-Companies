@@ -75,3 +75,8 @@
 3. Longest Subarray with Given Sum.
 4. Count of Subarrays with sum==K.
 5. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+## Bit Manipulation
+
+### Medium
+1. [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
