@@ -46,6 +46,8 @@
 ### Medium
 
 1. [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+2. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+3. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### Hard
 
@@ -82,4 +84,9 @@
 1. [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 
 ## Binary Tree
+
+### Medium
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+### Hard
 1. [Binary Tree to DLL ](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
