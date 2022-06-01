@@ -77,6 +77,7 @@
 3. Longest Subarray with Given Sum.
 4. Count of Subarrays with sum==K.
 5. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+6. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ## Bit Manipulation
 
