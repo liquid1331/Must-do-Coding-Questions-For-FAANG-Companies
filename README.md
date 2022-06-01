@@ -108,3 +108,4 @@
 ### Medium
 
 1. [701 insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+2. [450 Delete in BST](https://leetcode.com/problems/delete-node-in-a-bst/)
