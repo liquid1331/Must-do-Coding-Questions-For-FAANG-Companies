@@ -102,3 +102,9 @@
 
 ### Medium 
 [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+
+## BST
+
+### Medium
+
+1. [701 insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
