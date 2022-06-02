@@ -48,6 +48,7 @@
 1. [1003. Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 2. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 3. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+4. [32. Longest Valid Pranthesis](https://leetcode.com/problems/longest-valid-parentheses/)
 
 ### Hard
 
