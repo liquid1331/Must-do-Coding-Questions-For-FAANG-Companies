@@ -89,7 +89,8 @@
 ## Binary Tree
 
 ### Medium
-[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+1. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+2. [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 
 ### Hard
 1. [Binary Tree to DLL ](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
