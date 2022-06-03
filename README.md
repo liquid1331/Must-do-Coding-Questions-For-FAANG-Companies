@@ -93,6 +93,7 @@
 2. [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
 3. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 4. [Top View of binary tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1/)
+5. [222. Count complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 
 ### Hard
 1. [Binary Tree to DLL ](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
