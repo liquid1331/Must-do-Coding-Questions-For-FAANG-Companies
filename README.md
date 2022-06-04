@@ -120,3 +120,9 @@
 ### Medium
 
 1. [208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+
+## BackTacking
+
+### HARD
+1. [51. N-Queens](https://leetcode.com/problems/n-queens/)
