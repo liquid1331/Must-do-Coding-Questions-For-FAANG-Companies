@@ -134,3 +134,8 @@
 
 ### Medium
 1. [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+## Graph
+
+### Medium
+1. [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)
