@@ -62,6 +62,8 @@
 ### Easy
 
 ### Medium
+1. [198. House Robber](https://leetcode.com/problems/house-robber/)
+2. [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
 ### Hard
 
