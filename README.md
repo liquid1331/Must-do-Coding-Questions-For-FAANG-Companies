@@ -94,6 +94,8 @@
 3. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 4. [Top View of binary tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1/)
 5. [222. Count complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+6. [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+7. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 
 ### Hard
