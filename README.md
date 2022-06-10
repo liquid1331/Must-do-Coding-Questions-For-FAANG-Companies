@@ -145,3 +145,7 @@
 
 ### Medium
 1. [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)
+2. [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1/#)
+
+### Hard
+1. [Stongly connected Components](https://practice.geeksforgeeks.org/problems/topological-sort/1/#)
