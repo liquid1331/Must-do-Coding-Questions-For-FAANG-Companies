@@ -70,6 +70,7 @@
 1. [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)         [** Solution **](https://leetcode.com/problems/russian-doll-envelopes/discuss/2071626/Python-LIS-based-approach)
 2. [Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)
 3. [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/).       [Solution](https://leetcode.com/problems/burst-balloons/discuss/1973793/Burst-Balloons-oror-Fully-explained-oror-Dynamic-Programming-oror-O(M3))
+4. [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
 ## Hashing
 
