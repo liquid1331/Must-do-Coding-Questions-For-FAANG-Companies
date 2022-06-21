@@ -150,3 +150,9 @@
 
 ### Hard
 1. [Stongly connected Components](https://practice.geeksforgeeks.org/problems/topological-sort/1/#)
+
+
+## Heap
+
+### Medium
+1. [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
